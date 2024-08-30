@@ -1,0 +1,4 @@
+proprietary/lib64/libcamera_algoup_jni.xiaomi.so filter=lfs diff=lfs merge=lfs -text
+proprietary/lib64/libcamera_mianode_jni.xiaomi.so filter=lfs diff=lfs merge=lfs -text
+proprietary/lib64/libmicampostproc_client.so filter=lfs diff=lfs merge=lfs -text
+proprietary/lib64/vendor.xiaomi.hardware.campostproc@1.0.so filter=lfs diff=lfs merge=lfs -text
